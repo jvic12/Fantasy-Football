@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<fantasyfootball>
+    <qb>
+        <player>
+            <name>Drew Brees</name>
+            <points>17.53</points>
+        </player>
+        <player>
+            <name>Peyton Manning</name>
+            <points>21.87</points>
+        </player>
+        <player>
+            <name>Aaron Rodgers</name>
+            <points>23.12</points>
+        </player>
+        <player>
+            <name>Russel Wilson</name>
+            <points>18.54</points>
+        </player>
+        <player>
+            <name>Andrew Luck</name>
+            <points>20.83</points>
+        </player>
+        <player>
+            <name>Tom Brady</name>
+            <points>22.86</points>
+        </player>
+    </qb>
+    <rb>
+        <player>
+            <name>Adrian Peterson</name>
+            <points>20.17</points>
+        </player>
+        <player>
+            <name>Jamaal Charles</name>
+            <points>22.45</points>
+        </player>
+        <player>
+            <name>Lesean McCoy</name>
+            <points>16.67</points>
+        </player>
+        <player>
+            <name>Le'veon Bell</name>
+            <points>25.32</points>
+        </player>
+        <player>
+            <name>Marshawn Lynch</name>
+            <points>24.10</points>
+        </player>
+        <player>
+            <name>Demarco Murray</name>
+            <points>29.26</points>
+        </player>
+    </rb>
+    <wr>
+        <player>
+            <name>A.J. Green</name>
+            <points>18.34</points>
+        </player>
+        <player>
+            <name>Calvin Johnson</name>
+            <points>21.76</points>
+        </player>
+        <player>
+            <name>Demarius Thomas</name>
+            <points>19.11</points>
+        </player>
+        <player>
+            <name>Randall Cobb</name>
+            <points>18.77</points>
+        </player>
+        <player>
+            <name>Julio Jones</name>
+            <points>15.45</points>
+        </player>
+        <player>
+            <name>Antonio Brown</name>
+            <points>17.23</points>
+        </player>
+    </wr>
+    <te>
+        <player>
+            <name>Jimmy Graham</name>
+            <points>13.87</points>
+        </player>
+        <player>
+            <name>Rob Gronkowski</name>
+            <points>15.12</points>
+        </player>
+        <player>
+            <name>Greg Olson</name>
+            <points>14.36</points>
+        </player>
+    </te>
+</fantasyfootball>
+
+</rss>
